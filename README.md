@@ -485,41 +485,28 @@ For the best experience:
 
 ## Start Screen
 
-<img width="487" height="697" alt="Screenshot 2026-08-19 204000" src="https://github.com/user-attachments/assets/0a895b50-ab1d-4e93-8ee1-2fcdf695f00e" />
-
-
+<img width="370" height="170" alt="start" src="https://github.com/user-attachments/assets/f706a282-c5e1-4d33-b2b3-8b4645d5ff0e" />
 
 ---
 
 ## Alien Assault
 
-<p align="center">
-  <img src="screenshots/level-1.png" width="800" alt="Escape Galaxy Level 1">
-</p>
+<img width="150" height="389" alt="alien" src="https://github.com/user-attachments/assets/69f6f796-52fd-46c0-9632-e51f1920998d" />
+
 
 ---
 
 ## UFO Invasion
 
-<p align="center">
-  <img src="screenshots/level-2.png" width="800" alt="Escape Galaxy Level 2">
-</p>
+<img width="323" height="156" alt="UFO" src="https://github.com/user-attachments/assets/7d83b165-43f1-49ef-bb04-fc8f454e561a" />
+
 
 ---
 
 ## Boss Battle
 
-<p align="center">
-  <img src="screenshots/boss-battle.png" width="800" alt="Escape Galaxy Boss Battle">
-</p>
+<img width="225" height="225" alt="boss" src="https://github.com/user-attachments/assets/1c284ea1-9a24-4d09-8fbe-2688aaf48e6c" />
 
----
-
-## Victory
-
-<p align="center">
-  <img src="screenshots/victory.png" width="800" alt="Escape Galaxy Victory Screen">
-</p>
 
 ---
 
