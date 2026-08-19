@@ -1,10 +1,6 @@
 # 🚀 Escape Galaxy
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/554fb111-da98-43f7-9c9b-1b1f05200c1f" width="800" controls></video>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white" alt="p5.js">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -634,3 +630,9 @@ Every ⭐ helps the project reach more people.
 <p align="center">
   <strong>ESCAPE GALAXY</strong>
 </p>
+
+
+
+https://github.com/user-attachments/assets/252ecda4-317b-425d-ad67-bce89a2f3d31
+
+
