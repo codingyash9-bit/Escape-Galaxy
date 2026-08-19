@@ -485,9 +485,9 @@ For the best experience:
 
 ## Start Screen
 
-<p align="center">
-  <img src="screenshots/start-screen.png" width="800" alt="Escape Galaxy Start Screen">
-</p>
+<img width="487" height="697" alt="Screenshot 2026-08-19 204000" src="https://github.com/user-attachments/assets/0a895b50-ab1d-4e93-8ee1-2fcdf695f00e" />
+
+
 
 ---
 
