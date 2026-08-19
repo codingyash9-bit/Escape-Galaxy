@@ -1,16 +1,8 @@
 # 🚀 Escape Galaxy
 
-
-
 <p align="center">
-  
-
-https://github.com/user-attachments/assets/9f16132c-ae64-4a7a-bd49-f6a34704f863
-
-
+  <video src="https://github.com/user-attachments/assets/554fb111-da98-43f7-9c9b-1b1f05200c1f" width="800" controls></video>
 </p>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
